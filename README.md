@@ -2,8 +2,8 @@
 
 Hello! I'm **Riadh Ammari**, a computer science engineering student with a passion for solving complex problems through technology. I enjoy working on projects involving data processing, algorithms, and system architecture. 
 
-### 🔧 Technologies I love:
-- **Java**, **Spring Boot**, **Angular**, **Python**, **PostgreSQL**, **Keycloak**
+### 🔧 Technologies I enjoy working with:
+- **Java**, **Spring Boot**,**React**, **Angular**, **Python**, **MongoDB**, **Keycloak**
 - Working with **Microservices**, **AI**, and **Data-driven applications**
 
 🚀 **Currently working on:**
