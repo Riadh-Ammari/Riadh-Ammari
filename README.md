@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**Riadh-Ammari/Riadh-Ammari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Riadh Ammari**, a computer science engineering student with a passion for solving complex problems through technology. I enjoy working on projects involving data processing, algorithms, and system architecture. 
 
-Here are some ideas to get you started:
+### 🔧 Technologies I love:
+- **Java**, **Spring Boot**, **Angular**, **Python**, **PostgreSQL**, **Keycloak**
+- Working with **Microservices**, **AI**, and **Data-driven applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently working on:**
+- A **web application for inventory management** using **microservice architecture** with **Spring Boot**, **Angular**, and **Keycloak**.
+
+---
+
+### 🔨 Completed Projects
+
+1. **Discussion Forum in C**  
+   A platform for discussions, built with **C programming**, featuring secure user registration, posts/replies, and efficient thread management.
+
+2. **Cinema Management System**  
+   A **web app** for cinema scheduling and session reservations built with **Next.js** (frontend) and **JEE on WildFly** (backend).
+
+4. **Search Engine in Java**  
+   A Java-based search engine designed to index and search large datasets, focusing on optimization and accuracy in search result retrieval.
+
+---
+
+### 🌱 Always Learning
+
+I'm passionate about improving my skills, whether it be in backend development, front-end frameworks, or exploring the latest trends in **AI** and **data science**.
+
+---
+
+📍 **Let's Connect!**  
+Feel free to reach out to me if you're interested in collaboration or have any questions. You can connect with me via [LinkedIn](https://www.linkedin.com/in/riadh-ammari-48aa642a2).
+
+Thank you for visiting my GitHub! 🚀
